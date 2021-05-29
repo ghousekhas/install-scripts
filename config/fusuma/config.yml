@@ -1,0 +1,17 @@
+swipe:
+  4:
+    up:
+      update:
+        command: 'xdotool key XF86AudioRaiseVolume'
+    down:
+      update:
+        command: 'xdotool key XF86AudioLowerVolume'
+    right:
+      update:
+        command: 'xdotool key alt+Tab'
+    left:
+      update:
+        command: 'xdotool key alt+Shift_L+Tab'
+  3:
+    up:
+       command: 'xdotool key ctrl+T'
