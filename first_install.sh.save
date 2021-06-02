@@ -15,7 +15,7 @@ sudo snap install flutter --classic
 sudo apt-get install python3 python ns2 -y
 sudo apt install apache2 -y
 sudo apt install mariadb-server mariadb-client -y
-sudo apt install htop php7.4 php7.4-mysql php-common php7.4-cli php7.4-json php7.4-common php7.4-opcache libapache2-mod-php7.4 -y
-sudo apt-get install texlive-full -y
-sudo apt-get install texmaker -y
-sudo snap install postman
+sudo apt install htop php7.4 php7.4-mysql php-common php7.4-cli php7.4-json php7.4-common php7.4-opcache libapache2-mod-php7.4 -yReading package lists...
+Building dependency tree...
+Reading state information...
+texmaker is already the newest version (5.0.3-1build8)

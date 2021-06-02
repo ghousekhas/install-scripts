@@ -1,0 +1,2 @@
+sudo apt-get install python3-pip -y
+pip3 install numpy pandas selenium Django tensorflow keras torch scipy eli5 tk opencv pytest algorithms python-ds sortedcontainers asyncio trio audioread dejavu kapre librosa matchering mingus pyAudioAnalysis authlib django-allauth django-oauth-toolkit pybuilder Scons PlatformIO beaker coala code2flow prospector pycallgraph vulture cement click alive-progress bashplotlib colorama rich EasyOCR 
