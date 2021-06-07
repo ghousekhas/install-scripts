@@ -19,3 +19,6 @@ sudo apt install htop php7.4 php7.4-mysql php-common php7.4-cli php7.4-json php7
 sudo apt-get install texlive-full -y
 sudo apt-get install texmaker -y
 sudo snap install postman
+sudo apt install python3-django
+sudo apt install python3-django -y
+sudo apt-get install inkscape darktable krita mesa-utils gimp
